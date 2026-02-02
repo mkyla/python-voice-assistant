@@ -12,11 +12,11 @@ Run `python voice_assistant.py`, say "time", hear response.
 
 # ✨ Features
 
-### 🎤 STT & TTS
+-🎤 STT & TTS
 - speech_recognition for listening.
 - gTTS for speaking.
 
-### 🛠️ Commands
+-🛠️ Commands
 - "time": Current time
 - "hello": Greeting
 
@@ -41,11 +41,11 @@ Speak commands.
 
 # 🛠️ Development
 
-### 🧩 Core Components
+-🧩 Core Components
 
 1. **voice_assistant.py**: Main loop, recognition, TTS.
 
-### 🛠️ Tech Stack
+-🛠️ Tech Stack
 
 - Python 3
 - STT: speech_recognition
