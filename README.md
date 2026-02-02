@@ -1,16 +1,18 @@
 # Python Voice Assistant
 
+## Python Voice Assistant
+
 A simple Python-based voice assistant with speech recognition and text-to-speech using speech_recognition and gTTS.
 
-# 📖 Overview
+## 📖 Overview
 
 Python Voice Assistant listens to voice commands, recognizes text, processes basic queries, and responds with synthesized speech.
 
-# 🎬 Demo
+## 🎬 Demo
 
 Run `python voice_assistant.py`, say "time", hear response.
 
-# ✨ Features
+## ✨ Features
 
 -🎤 STT & TTS
 - speech_recognition for listening.
@@ -20,26 +22,26 @@ Run `python voice_assistant.py`, say "time", hear response.
 - "time": Current time
 - "hello": Greeting
 
-# 📦 Installation
+## 📦 Installation
 
-# Clone
+## Clone
 git clone https://github.com/mkyla/python-voice-assistant.git
 cd python-voice-assistant
 
-# Install
+## Install
 pip install -r requirements.txt
 
-# 📋 Usage Guide
+## 📋 Usage Guide
 
 python voice_assistant.py
 
 Speak commands.
 
-# ⚙️ Configuration
+## ⚙️ Configuration
 
 - Uses default microphone.
 
-# 🛠️ Development
+## 🛠️ Development
 
 -🧩 Core Components
 
@@ -51,6 +53,6 @@ Speak commands.
 - STT: speech_recognition
 - TTS: gTTS
 
-# 📄 License
+## 📄 License
 
 MIT
