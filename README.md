@@ -41,20 +41,6 @@ Speak commands.
 
 ## 🛠️ Development
 
-### 📁 Project Structure
-
-```
-python-voice-assistant/
-├── voice_assistant.py    # Main script
-├── test_voice_assistant.py # Tests
-├── requirements.txt      # Dependencies
-├── .github/
-│   └── workflows/
-│       └── ci.yml        # CI/CD
-├── LICENSE               # MIT
-└── README.md             # Docs
-```
-
 ### 🧩 Core Components
 
 1. **voice_assistant.py**: Main loop, recognition, TTS.
